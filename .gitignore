@@ -47,5 +47,3 @@ build/
 dist/
 *.egg-info/
 
-# Private interview-revision file: keep this locally, do not upload
-INTERVIEW_HELPER.md
